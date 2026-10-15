@@ -1,5 +1,7 @@
 # Richieste: requests for chemical, mechanical and barrier tests to a materials laboratory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23398809.svg)](https://doi.org/10.5281/zenodo.23398809)
+
 *Richieste di prove chimiche, meccaniche e di barriera al laboratorio*
 
 **db** · 1998–2000 · version 1.0  
@@ -46,9 +48,9 @@ The database is published **empty**: every table has been emptied, the file comp
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*).
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23398809](https://doi.org/10.5281/zenodo.23398809).
 
-> Sbarbaro, Massimo. 1999. *Richieste: requests for chemical, mechanical and barrier tests to a materials laboratory*. Software (db, 1998–2000), version 1.0. GitHub. https://github.com/massimosbarbaro/laboratory-test-requests-db.
+> Sbarbaro, Massimo. 1999. *Richieste: requests for chemical, mechanical and barrier tests to a materials laboratory*. Software (db, 1998–2000), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23398809.
 
 ## License
 
